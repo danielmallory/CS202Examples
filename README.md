@@ -5,4 +5,4 @@ artificial intelligence. Where appropriate, sources will be provided for exampe 
 much of the README files will contain expanded upon explanations and historical notations for what specific things do, and 
 why they are done the way they are.
 
-![title](/imgs/ml-xckd.png)
+![title](https://github.com/danielmallory/CS202Examples/blob/master/imgs/machine_learning_2x.png)
