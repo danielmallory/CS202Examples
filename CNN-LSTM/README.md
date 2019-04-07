@@ -14,6 +14,15 @@ architectures that you will find in this specific project.
 
 ### Recurrent Neural Network
 
-The basic building block of the RNN is the memory cell - or LSTM. 
+'Regular' or fully-connected neural netowrks have immense computing power, but they suffer from the 'memoryless' property;
+by assuming each input and output is independent, we ignore and lose information that can be encoded in temporal/sequential 
+data. For many tasks, like natural language processing, it is important that the network knows and keeps track of what words
+came before it; natural language syntax is what distinguishes something from being spoken by a baby and an adult. RNNs are 
+neural networks that keep track of just that; they perform the same computations on each element of their input, with each 
+step depending on the preceding sequence for its specific weighting and calculi. You can think of RNNs as having a stored
+'memory' in each cell which stores information about what has been calculated so far, or what information it has sent 
+and received up until that point. The most widely used model of an RNN involves the 'basic' building block called an LSTM-
+or the 'Long Short-Term Memory':
+
 
 ![title](/imgs/lstmblock.png)
