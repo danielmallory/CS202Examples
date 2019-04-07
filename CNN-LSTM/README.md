@@ -25,4 +25,4 @@ and received up until that point. The most widely used model of an RNN involves 
 or the 'Long Short-Term Memory':
 
 
-![title](/imgs/lstmblock.png)
+![title](https://github.com/danielmallory/CS202Examples/blob/master/CNN-LSTM/imgs/lstmblock.png)
