@@ -16,4 +16,4 @@ architectures that you will find in this specific project.
 
 The basic building block of the RNN is the memory cell - or LSTM. 
 
-![title](/imgs/lstmblock.png)
+![title](https://github.com/danielmallory/CS202Examples/blob/master/CNN-LSTM/imgs/lstmblock.png)
