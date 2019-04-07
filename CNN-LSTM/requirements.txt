@@ -1,0 +1,8 @@
+matplotlib
+nltk
+torch
+numpy
+pickle
+Pillow
+argparse
+torchvision
