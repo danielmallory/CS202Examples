@@ -1,6 +1,4 @@
 # ANN Presentation Code
 
-This repository contains a collection of example code and explanations for various algorithms and structures commonly used in 
-artificial intelligence. 
-
-![title](https://github.com/danielmallory/CS202Examples/blob/master/imgs/ml-xkcd.png)
+This repository contains a collection of example code and explanations for various algorithms and structures commonly used in deep learning. I've forked everything from other repositories, and the relevant Readme files contain those references.
+![title](https://github.com/danielmallory/NNPresentation/blob/master/files/imgs/ml-xkcd.png)
